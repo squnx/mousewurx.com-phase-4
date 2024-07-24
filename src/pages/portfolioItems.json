@@ -366,11 +366,11 @@
     "id": 57,
     "category": "filter-web",
     "imgSrc": "/assets/images/portfolio/gasp-thumb.jpg",
-    "title": "The Gasp Company 2013",
+    "title": "The GASP Company 2013",
     "description": "Dedicated to Bringing Design to Life",
     "previewLink": "/assets/images/portfolio/gasp.jpg",
     "previewCategory": "portfolio-web",
-    "previewTitle": "The Gasp Company - Developed websites for The GASP Company, a creative agency/design firm. This project involved crafting a visually appealing and user-friendly website that reflects their brand identity and attracts new clients.",
+    "previewTitle": "The GASP Company - Developed websites for The GASP Company, a creative agency/design firm. This project involved crafting a visually appealing and user-friendly website that reflects their brand identity and attracts new clients.",
     "detailsLink": "http://thegaspcompany.com/"
   },
   {
@@ -382,7 +382,7 @@
     "previewLink": "/assets/images/portfolio/selfhelpworks.jpg",
     "previewCategory": "portfolio-web",
     "previewTitle": "Self Help Works - Developed the initial phase websites for Self Help Works. This project involved laying the foundation for their online presence, potentially establishing their brand identity, showcasing their self-help resources, and attracting potential clients/users.",
-    "detailsLink": "http://selfhelpworks.mousewurx.com/"
+    "detailsLink": "https://selfhelpworks.netlify.app/"
   },
   {
     "id": 55,
