@@ -547,7 +547,7 @@
     "previewLink": "/assets/images/portfolio/sun-solaris.jpg",
     "previewCategory": "portfolio-web",
     "previewTitle": "Sun Microsystems, Inc. - Developed the landing page for Sun Solaris Web Event",
-    "detailsLink": "https://sun-solaris.netlify.app/"
+    "detailsLink": "https://sun-microsystems-solaris.netlify.app/"
   },
   {
     "id": 40,
@@ -569,7 +569,7 @@
     "previewLink": "/assets/images/portfolio/sun-analyst.jpg",
     "previewCategory": "portfolio-web",
     "previewTitle": "Sun Microsystems, Inc. - Developed the landing page for Sun Analyst Summit",
-    "detailsLink": "http://08-smi-002.mousewurx.com/sas2008.html"
+    "detailsLink": "https://sun-microsystems-analyst.netlify.app/"
   },
   {
     "id": 38,
