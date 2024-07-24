@@ -217,7 +217,7 @@
     "previewLink": "/assets/images/portfolio/vmware-vFORUM.jpg",
     "previewCategory": "portfolio-eblast",
     "previewTitle": "VMware, Inc. - Developed eblast and newsletters for VMware's vFORUM 2015 conference. vFORUM is a major event for IT professionals focused on virtualization and cloud computing. This project involved creating a user-friendly platform for attendees to register, access event information, and engage with sponsors.",
-    "detailsLink": "https://vforum2015.netlify.app/"
+    "detailsLink": "https://vmware-vforum-2015.netlify.app/"
   },
   {
     "id": 70,
@@ -393,7 +393,7 @@
     "previewLink": "/assets/images/portfolio/smart-communications.jpg",
     "previewCategory": "portfolio-web",
     "previewTitle": "Smart Communications, Inc. - Developed websites for Smart Communications. This project involved tailoring the user experience and content to resonate with their specific needs and interests.",
-    "detailsLink": "http://creativity-at-work.mousewurx.com/"
+    "detailsLink": "https://smart-communications.netlify.app/"
   },
   {
     "id": 54,
