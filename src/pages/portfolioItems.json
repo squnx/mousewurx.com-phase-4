@@ -700,8 +700,8 @@
     "description": "Sun Microsystems, Inc.",
     "previewLink": "/assets/images/portfolio/sun-v-force.jpg",
     "previewCategory": "portfolio-cd",
-    "previewTitle": "Sun Microsystems, Inc. - Developed a Flash-based CD-ROM application for Sun Microsystems' V-Force Training CD 2002.",
-    "detailsLink": ""
+    "previewTitle": "Sun Microsystems, Inc. - Developed a Flash-based and HTML versions of hybrid CD-ROM application for Sun Microsystems' V-Force Training CD 2002.",
+    "detailsLink": "https://sun-microsystems-v-force.netlify.app/"
   },
   {
     "id": 26,
