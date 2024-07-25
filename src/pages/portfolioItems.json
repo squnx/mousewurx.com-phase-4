@@ -602,7 +602,7 @@
     "previewLink": "/assets/images/portfolio/sun-nec.jpg",
     "previewCategory": "portfolio-eblast",
     "previewTitle": "Sun Microsystems, Inc. - Developed a newsletter for NEC Marketing Program.",
-    "detailsLink": "https://sun-nec.netlify.app/"
+    "detailsLink": "https://sun-microsystems-nec.netlify.app/"
   },
   {
     "id": 35,
@@ -634,8 +634,8 @@
     "description": "Sun Microsystems, Inc.",
     "previewLink": "/assets/images/portfolio/sun-java-business.jpg",
     "previewCategory": "portfolio-cd",
-    "previewTitle": "Sun Microsystems, Inc. - Developed n CD-ROM application for Sun Microsystems' employees.",
-    "detailsLink": "http://sun-microsystems.mousewurx.com/05.SMI.062.JBISDKCD/"
+    "previewTitle": "Sun Microsystems, Inc. - Developed the CD-ROM application for Sun Microsystems' employees.",
+    "detailsLink": "https://sun-microsystems-java-business.netlify.app/"
   },
   {
     "id": 32,
