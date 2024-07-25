@@ -568,7 +568,7 @@
     "description": "Sun Microsystems, Inc.",
     "previewLink": "/assets/images/portfolio/sun-analyst.jpg",
     "previewCategory": "portfolio-web",
-    "previewTitle": "Sun Microsystems, Inc. - Developed the landing page for Sun Analyst Summit",
+    "previewTitle": "Sun Microsystems, Inc. - Developed the landing page for Sun Analyst Summit.",
     "detailsLink": "https://sun-microsystems-analyst.netlify.app/"
   },
   {
@@ -579,8 +579,8 @@
     "description": "Serena Software, Inc.",
     "previewLink": "/assets/images/portfolio/serena-mashup.jpg",
     "previewCategory": "portfolio-eblast",
-    "previewTitle": "Serena Software, Inc. - Developed a newsletter for Serena Mashup Composer",
-    "detailsLink": "http://oic.mousewurx.com/07.SER.117.SerenaVailMashupEmailTemplate/SERENA_VailmashupEblast.html"
+    "previewTitle": "Serena Software, Inc. - Developed a newsletter for Serena Mashup Composer.",
+    "detailsLink": "https://serena-mashup.netlify.app/"
   },
   {
     "id": 37,
