@@ -733,8 +733,8 @@
     "description": "",
     "previewLink": "/assets/images/portfolio/guyschmidt.jpg",
     "previewCategory": "portfolio-web",
-    "previewTitle": "Guy Schmidt Auto Group - Developed an early website for Guy Schmidt Auto Group in 2001. This project involved building a web presence using Flash technology, likely showcasing their inventory and dealership information.",
-    "detailsLink": "http://guyschmidt.mousewurx.com/"
+    "previewTitle": "Guy Schmidt Auto Group - Developed an early website for Guy Schmidt Auto Group using Flash technology in 2001. This project involved building a web presence using Flash technology, likely showcasing their inventory and dealership information.",
+    "detailsLink": "https://guyschmidt-auto-group.netlify.app/"
   },
   {
     "id": 23,
