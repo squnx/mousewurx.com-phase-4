@@ -608,12 +608,25 @@ section,
   padding-bottom: 30px;
   position: relative;
 
+  span {
+    position: absolute;
+    top: 4px;
+    color: color-mix(in srgb, var(--accent-color), transparent 80%);
+    left: 0;
+    right: 0;
+    z-index: 1;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 0;
+  }
+
   h2 {
     font-size: 32px;
     font-weight: 700;
     margin-bottom: 20px;
     padding-bottom: 20px;
     position: relative;
+    z-index: 2;
 
     &:after {
       content: "";

@@ -20,6 +20,7 @@ const Contact = () => {
   return (
     <section id="contact" className="contact section">
       <div className="container section-title pb-0" data-aos="fade-up">
+        <span>Contact</span>
         <h2>Contact</h2>
         <p className="pb-30">Ready to start your next project with us? Let's get in touch!</p>
         <div className="container" data-aos="fade-up" data-aos-delay="100">

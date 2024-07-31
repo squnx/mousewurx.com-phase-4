@@ -4,6 +4,7 @@ const Services = () => {
       {/* Services Section */}
       <section id="services" className="services section">
         <div className="container section-title" data-aos="fade-up">
+          <span>Services</span>
           <h2>Services</h2>
           <p>A Full Spectrum of Branding Services!</p>
         </div>

@@ -21,6 +21,7 @@ const Portfolio = () => {
       {/* Portfolio Section */}
       <section id="portfolio" className="portfolio section">
         <div className="container section-title pb-1" data-aos="fade-up">
+          <span>Portfolio</span>
           <h2>Portfolio</h2>
           {/* <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p> */}
         </div>

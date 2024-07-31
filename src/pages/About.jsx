@@ -7,6 +7,7 @@ const About = () => {
       {/* About Section */}
       <section id="about" className="about section">
         <div className="container section-title" data-aos="fade-up">
+          <span>About</span>
           <h2>About</h2>
           <p>A Wealth of Talent Ready To Serve You!</p>
         </div>
