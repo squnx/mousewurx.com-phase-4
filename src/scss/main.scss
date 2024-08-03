@@ -389,14 +389,11 @@ h6 {
   --default-color: #ffffff;
   --heading-color: #ff8e60;
   color: var(--default-color);
+  background: url(/assets/images/bg-welcome.png) no-repeat center bottom;
   background-color: var(--background-color);
   font-size: 14px;
   padding-top: 20px;
   position: relative;
-
-  .container {
-    background: url(/assets/images/bg-welcome.png) no-repeat center bottom;
-  }
 
   .copyright p {
     margin-bottom: 0;
