@@ -706,8 +706,9 @@ section,
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1199px) {
   .hero {
+    min-height: calc(100vh - 56px);
     h2 {
       font-size: 54px;
       line-height: 1;
