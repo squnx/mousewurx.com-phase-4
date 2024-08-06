@@ -706,6 +706,12 @@ section,
   }
 }
 
+@media (max-width: 1199px) {
+  .hero {
+    min-height: calc(100vh - 56px);
+  }
+}
+
 @media (max-width: 768px) {
   .hero {
     h2 {
