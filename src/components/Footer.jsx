@@ -5,7 +5,7 @@ const Footer = () => {
     <footer id="footer" className="footer">
       <div className="container">
         <div className="copyright text-center">
-          <p><span>Copyright</span> © 2009–{(new Date().getFullYear())} :: <Link to="/"><strong className="px-1 sitename">mousewurx</strong></Link> :: <span>All Rights Reserved</span></p>
+          <p><span>Copyright</span> © 2009–{(new Date().getFullYear())} ::<Link to="/"><strong className="px-1 sitename">mousewurx</strong></Link>:: <span>All Rights Reserved</span></p>
         </div>
         <div className="social-links d-flex justify-content-center">
           {/* <a href=""><i className="bi bi-twitter-x"></i></a>
