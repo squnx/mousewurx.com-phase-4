@@ -13,7 +13,6 @@ const Footer = () => {
           <a href=""><i className="bi bi-instagram"></i></a> */}
           <a href="https://www.linkedin.com/in/ivansong/" title="LinkedIn" target="_blank" rel="noreferrer"><i className="bi bi-linkedin"></i></a>
           <a href="https://github.com/squnx?tab=repositories" title="GitHub" target="_blank" rel="noreferrer"><i className="bi bi-github"></i></a>
-          <a href="https://github.com/squnx?tab=repositories" title="GitHub" target="_blank" rel="noreferrer"><i className="bi bi-github"></i></a>
           {/* <a href="http://mousewurx.com/song/ivan/IvanSong.pdf" title="Iven's Resume" target='_blank'><i className="bi bi-file-earmark-person"></i></a> */}
         </div>
       </div>
