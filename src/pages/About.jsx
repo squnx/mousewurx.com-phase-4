@@ -130,7 +130,6 @@ const About = () => {
                       </p>
                     </div>
                   </div>
-
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="swiper-slide">

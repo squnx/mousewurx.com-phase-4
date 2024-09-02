@@ -12,7 +12,7 @@ import ScrollToTop from './components/ScrollToTop';
 
 function Layout({ children }) {
   return (
-    <div className="App app-container">
+    <div id="top" className="App app-container">
       <Header />
       <main className="main">{children}</main>
       <Footer />
