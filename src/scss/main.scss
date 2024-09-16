@@ -1089,6 +1089,23 @@ section,
 }
 
 .portfolio {
+  .sticky-filters {
+    position: -webkit-sticky;
+    /* For Safari */
+    position: sticky;
+    top: 73px;
+    /* Adjust based on your header height */
+    z-index: 50;
+    /* Ensure it stays on top */
+    background-color: #fff;
+    /* Optional: Adds background color */
+    padding: 10px 0 5px !important;
+    /* Optional: Adds padding */
+
+    @media (max-width: 1200px) {
+      top: 51px;
+    }
+  }
   .portfolio-filters {
     padding: 0;
     margin: 0 auto 30px auto;
@@ -1124,6 +1141,13 @@ section,
 
   .portfolio-item {
     position: relative;
+    
+    img {
+      width: 100%;
+      height: auto; /* Maintain aspect ratio */
+      display: block; /* Remove any space below the image */
+    }
+    
 
     // .portfolio-info {
     //   opacity: 0;

@@ -16,6 +16,21 @@ function useScript(src) {
 const Portfolio = () => {
   useScript('/assets/js/main-useScript.js');
 
+  useEffect(() => {
+    const handleFilterClick = (event) => {
+      if (event.target.matches('.isotope-filters li')) {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+    };
+
+    const filterContainer = document.querySelector('.isotope-filters');
+    filterContainer.addEventListener('click', handleFilterClick);
+
+    return () => {
+      filterContainer.removeEventListener('click', handleFilterClick);
+    };
+  }, []);
+
   return (
     <>
       {/* Portfolio Section */}
@@ -27,7 +42,7 @@ const Portfolio = () => {
         </div>
         <div className="container">
           <div className="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
-            <ul className="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+            <ul className="portfolio-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
               <li data-filter="*" className="filter-active">All</li>
               <li data-filter=".filter-web">Web</li>
               <li data-filter=".filter-eblast">Eblast</li>
@@ -57,7 +72,7 @@ const Portfolio = () => {
         </div>
       </section>
     </>
-  )
+  );
 }
 
-export default Portfolio
+export default Portfolio;
