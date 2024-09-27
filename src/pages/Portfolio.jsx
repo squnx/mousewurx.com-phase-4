@@ -19,15 +19,21 @@ const Portfolio = () => {
   useEffect(() => {
     const handleFilterClick = (event) => {
       if (event.target.matches('.isotope-filters li')) {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        setTimeout(() => {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }, 100); // Adjust the delay if needed
       }
     };
-
+  
     const filterContainer = document.querySelector('.isotope-filters');
-    filterContainer.addEventListener('click', handleFilterClick);
-
+    if (filterContainer) {
+      filterContainer.addEventListener('click', handleFilterClick);
+    }
+  
     return () => {
-      filterContainer.removeEventListener('click', handleFilterClick);
+      if (filterContainer) {
+        filterContainer.removeEventListener('click', handleFilterClick);
+      }
     };
   }, []);
 
