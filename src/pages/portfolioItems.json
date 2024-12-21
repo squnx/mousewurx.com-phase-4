@@ -1,5 +1,16 @@
 [
   {
+    "id": 91,
+    "category": "filter-web",
+    "imgSrc": "/assets/images/portfolio/soco-wm-thumb.jpg",
+    "title": "SoCo Wellness MedSpa",
+    "description": "Discover Your Confidence!",
+    "previewLink": "/assets/images/portfolio/soco-wm.jpg",
+    "previewCategory": "portfolio-web",
+    "previewTitle": "SoCo Wellness MedSpa - Developed with React, Vite, JavaScript, TypeScript, JSON, HTML, Sass and Bootstrap 5 in 2024.",
+    "detailsLink": "https://socowm.com/"
+  },
+  {
     "id": 90,
     "category": "filter-books",
     "imgSrc": "/assets/images/portfolio/book-dare-to-dream-thumb.jpg",
