@@ -76,7 +76,7 @@ const About = () => {
                 </div>
               </div>
               <div className="progress">
-                <span className="skill"><span>React | Vite | Node.js</span> <i className="val">80%</i></span>
+                <span className="skill"><span>React | Vite | Node JS</span> <i className="val">80%</i></span>
                 <div className="progress-bar-wrap">
                   <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
