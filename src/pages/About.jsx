@@ -54,6 +54,82 @@ const About = () => {
           </div>
         </div>
       </section>
+
+      {/* Skills Section */}
+      <section id="skills" className="skills section">
+        <div className="container section-title" data-aos="fade-up">
+          <h2 className="mb-0">Skills</h2>
+        </div>
+        <div className="container" data-aos="fade-up" data-aos-delay="100">
+          <div className="row skills-content skills-animation">
+            <div className="col-lg-6">
+              <div className="progress">
+                <span className="skill"><span>HTML</span> <i className="val">100%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
+                <span className="skill"><span>CSS | SASS | Bootstrap</span> <i className="val">100%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
+                <span className="skill"><span>JavaScript | jQuery | Typescript | AJAX | JSON</span> <i className="val">90%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
+                <span className="skill"><span>React | Vite | Node.js</span> <i className="val">80%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
+                <span className="skill"><span>Webpack | Grunt | Gulp</span> <i className="val">70%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6">
+              <div className="progress">
+                <span className="skill"><span>WordPress | Shopify | BigCommerce | CMS</span> <i className="val">90%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
+                <span className="skill"><span>Photoshop | InVision | Figma | Midjourney | Canva</span> <i className="val">50%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
+                <span className="skill"><span>Perforce | CVS | Git | SourceSafe</span> <i className="val">70%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
+                <span className="skill"><span>C# | Java | ColdFusion | PHP | Liquid | Perl</span> <i className="val">40%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
+                <span className="skill"><span>Adobe Target | Optimizely</span> <i className="val">70%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Testimonials Section */}
       <section id="testimonials" className="testimonials section">
         <img src="/assets/images/testimonials-bg.jpg" className="testimonials-bg" alt="" />
