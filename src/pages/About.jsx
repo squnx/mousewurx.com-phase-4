@@ -64,15 +64,9 @@ const About = () => {
           <div className="row skills-content skills-animation">
             <div className="col-lg-6">
               <div className="progress">
-                <span className="skill"><span>HTML</span> <i className="val">100%</i></span>
+                <span className="skill"><span>HTML | CSS | SASS | Bootstrap</span> <i className="val">95%</i></span>
                 <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-              </div>
-              <div className="progress">
-                <span className="skill"><span>CSS | SASS | Bootstrap</span> <i className="val">100%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
               <div className="progress">
@@ -88,6 +82,12 @@ const About = () => {
                 </div>
               </div>
               <div className="progress">
+                <span className="skill"><span>WordPress | Shopify | BigCommerce | CMS</span> <i className="val">70%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
                 <span className="skill"><span>Webpack | Grunt | Gulp</span> <i className="val">70%</i></span>
                 <div className="progress-bar-wrap">
                   <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
@@ -96,15 +96,9 @@ const About = () => {
             </div>
             <div className="col-lg-6">
               <div className="progress">
-                <span className="skill"><span>WordPress | Shopify | BigCommerce | CMS</span> <i className="val">90%</i></span>
+                <span className="skill"><span>Photoshop | InVision | Figma | Midjourney | Canva</span> <i className="val">70%</i></span>
                 <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-              </div>
-              <div className="progress">
-                <span className="skill"><span>Photoshop | InVision | Figma | Midjourney | Canva</span> <i className="val">50%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
               <div className="progress">
@@ -120,9 +114,15 @@ const About = () => {
                 </div>
               </div>
               <div className="progress">
-                <span className="skill"><span>Adobe Target | Optimizely</span> <i className="val">70%</i></span>
+                <span className="skill"><span>Adobe Target | Optimizely</span> <i className="val">40%</i></span>
                 <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div className="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+              </div>
+              <div className="progress">
+                <span className="skill"><span>SharePoint | Oracle ATG | Oracle RNT</span> <i className="val">30%</i></span>
+                <div className="progress-bar-wrap">
+                  <div className="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
             </div>
