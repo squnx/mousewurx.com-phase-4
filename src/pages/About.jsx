@@ -64,7 +64,7 @@ const About = () => {
           <div className="row skills-content skills-animation">
             <div className="col-lg-6">
               <div className="progress">
-                <span className="skill"><span>HTML | CSS | SASS | Bootstrap</span> <i className="val">95%</i></span>
+                <span className="skill"><span>HTML | CSS | SASS | LESS | Bootstrap</span> <i className="val">95%</i></span>
                 <div className="progress-bar-wrap">
                   <div className="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
