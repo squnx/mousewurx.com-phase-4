@@ -28,7 +28,7 @@ const About = () => {
                   <img src="/assets/images/about-experience.jpg" alt="" className="img-fluid" />
                 </div>
                 <h2 className="title">Experience</h2>
-                <p>At Mousewurx, we offer personalized service by experienced professionals. With expertise in web and content production, we ensure exceptional design, reliable hosting, and robust technical compatibility, delivering outstanding results.
+                <p>At mousewurx, we offer personalized service by experienced professionals. With expertise in web and content production, we ensure exceptional design, reliable hosting, and robust technical compatibility, delivering outstanding results.
                 </p>
               </div>
             </div>
