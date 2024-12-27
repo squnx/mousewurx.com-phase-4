@@ -82,13 +82,13 @@ const About = () => {
                 </div>
               </div>
               <div className="progress">
-                <span className="skill"><span>WordPress | Shopify | BigCommerce | CMS</span> <i className="val">70%</i></span>
+                <span className="skill"><span>Photoshop | InVision | Figma | Midjourney | Canva</span> <i className="val">70%</i></span>
                 <div className="progress-bar-wrap">
                   <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
               <div className="progress">
-                <span className="skill"><span>Webpack | Grunt | Gulp</span> <i className="val">70%</i></span>
+                <span className="skill"><span>WordPress | Shopify | BigCommerce | CMS</span> <i className="val">70%</i></span>
                 <div className="progress-bar-wrap">
                   <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
@@ -96,13 +96,13 @@ const About = () => {
             </div>
             <div className="col-lg-6">
               <div className="progress">
-                <span className="skill"><span>Photoshop | InVision | Figma | Midjourney | Canva</span> <i className="val">70%</i></span>
+                <span className="skill"><span>Perforce | CVS | Git | SourceSafe</span> <i className="val">70%</i></span>
                 <div className="progress-bar-wrap">
                   <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
               <div className="progress">
-                <span className="skill"><span>Perforce | CVS | Git | SourceSafe</span> <i className="val">70%</i></span>
+                <span className="skill"><span>Webpack | Grunt | Gulp</span> <i className="val">70%</i></span>
                 <div className="progress-bar-wrap">
                   <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
