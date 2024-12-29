@@ -102,7 +102,7 @@ const About = () => {
                 </div>
               </div>
               <div className="progress">
-                <span className="skill"><span>Webpack | Grunt | Gulp</span> <i className="val">70%</i></span>
+                <span className="skill"><span>Webpack | NPM | Grunt | Gulp</span> <i className="val">70%</i></span>
                 <div className="progress-bar-wrap">
                   <div className="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
