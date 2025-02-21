@@ -41,6 +41,7 @@ function App() {
     <Router>
       <Layout>
         <ScrollToTop />
+        <Analytics /> {/* Ensures analytics runs on every page change */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
