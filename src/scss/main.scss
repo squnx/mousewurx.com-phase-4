@@ -1140,6 +1140,7 @@ section,
     /* Optional: Adds background color */
     padding: 10px 0 5px !important;
     /* Optional: Adds padding */
+    box-shadow: 5px 0 0px 0px rgb(255, 255, 255), -5px 0 0px 0px rgb(255, 255, 255);
 
     @media (max-width: 1200px) {
       top: 51px;
