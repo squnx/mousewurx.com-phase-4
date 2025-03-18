@@ -1,12 +1,23 @@
 [
   {
+    "id": 93,
+    "category": "filter-video",
+    "imgSrc": "/assets/images/portfolio/dream-shorts-thumb.jpg",
+    "title": "Dreaming of Becoming a CEO?",
+    "description": "From Amazon employee to successful entrepreneur!",
+    "previewLink": "/assets/images/portfolio/dream-shorts.jpg",
+    "previewCategory": "portfolio-video",
+    "previewTitle": "Dreaming of starting your own business? Watch how a 25-year-old went from Account Executive to CEO. This inspiring journey will motivate you to take the leap.",
+    "detailsLink": "https://songfamily.netlify.app/assets/images/events/andy/videos/2025.03-andy.journey.mp4"
+  },
+  {
     "id": 92,
-    "category": "filter-youtube",
+    "category": "filter-video",
     "imgSrc": "/assets/images/portfolio/soco-wm-youtube-thumb.jpg",
     "title": "SoCo Wellness MedSpa 2025",
     "description": "Discover Your Confidence!",
     "previewLink": "/assets/images/portfolio/soco-wm-youtube.jpg",
-    "previewCategory": "portfolio-youtube",
+    "previewCategory": "portfolio-video",
     "previewTitle": "YouTube Short Video for SoCo Wellness MedSpa",
     "detailsLink": "https://youtube.com/shorts/RqrIaWER0m8"
   },
