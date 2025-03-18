@@ -1,5 +1,16 @@
 [
   {
+    "id": 92,
+    "category": "filter-youtube",
+    "imgSrc": "/assets/images/portfolio/soco-wm-youtube-thumb.jpg",
+    "title": "SoCo Wellness MedSpa 2025",
+    "description": "Discover Your Confidence!",
+    "previewLink": "/assets/images/portfolio/soco-wm-youtube.jpg",
+    "previewCategory": "portfolio-youtube",
+    "previewTitle": "YouTube Short Video for SoCo Wellness MedSpa",
+    "detailsLink": "https://youtube.com/shorts/RqrIaWER0m8"
+  },
+  {
     "id": 91,
     "category": "filter-web",
     "imgSrc": "/assets/images/portfolio/soco-wm-thumb.jpg",
