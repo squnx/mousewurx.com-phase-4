@@ -1,23 +1,23 @@
 [
   {
     "id": 93,
-    "category": "filter-video",
+    "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/soco-wm-youtube-thumb.jpg",
     "title": "SoCo Wellness MedSpa 2025",
     "description": "YouTube Short Video",
     "previewLink": "/assets/images/portfolio/soco-wm-youtube.jpg",
-    "previewCategory": "portfolio-video",
+    "previewCategory": "portfolio-micellaneous",
     "previewTitle": "YouTube Short Video of SoCo Wellness MedSpa - Discover Your Confidence!",
     "detailsLink": "https://youtube.com/shorts/RqrIaWER0m8"
   },
   {
     "id": 92,
-    "category": "filter-video",
+    "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/dream-shorts-thumb.jpg",
     "title": "Dreaming of CEO? 2025",
     "description": "From Amazon employee to successful entrepreneur!",
     "previewLink": "/assets/images/portfolio/dream-shorts.jpg",
-    "previewCategory": "portfolio-video",
+    "previewCategory": "portfolio-micellaneous",
     "previewTitle": "Dreaming of starting your own business? Watch how a 25-year-old went from Account Executive to CEO. This inspiring journey will motivate you to take the leap.",
     "detailsLink": "https://songfamily.netlify.app/assets/images/events/andy/videos/2025.03-andy.journey.mp4"
   },
@@ -34,23 +34,23 @@
   },
   {
     "id": 90,
-    "category": "filter-books",
+    "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/book-dare-to-dream-thumb.jpg",
     "title": "Dare to Dream 2023",
     "description": "Inspiring Adventures for Young Hearts",
     "previewLink": "/assets/images/portfolio/book-dare-to-dream.jpg",
-    "previewCategory": "portfolio-book",
+    "previewCategory": "portfolio-micellaneous",
     "previewTitle": "Imagine Talee - \"Dare to Dream\" (2023): Within the pages of this enchanting book, you will discover four extraordinary stories brimming with bravery, resilience, and the power of self-discovery. Each tale is carefully woven to captivate young imaginations and instill valuable life lessons that will inspire and empower.",
     "detailsLink": "https://www.amazon.com/Dare-Dream-Inspiring-Adventures-Hearts/dp/B0CB29L9V2"
   },
   {
     "id": 89,
-    "category": "filter-books",
+    "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/book-heungbu-nolbu-thumb.jpg",
     "title": "Heungbu and Nolbu 2023",
     "description": "The renowned Korean folktale",
     "previewLink": "/assets/images/portfolio/book-heungbu-nolbu.jpg",
-    "previewCategory": "portfolio-book",
+    "previewCategory": "portfolio-micellaneous",
     "previewTitle": "Imagine Talee - \"Heungbu and Nolbu\" (2023): This tale is a renowned Korean Folklore focusing on the lives of two brothers, Heungbu and Nolbu. It imparts important lessons such as the significance of kindness and generosity, the consequences of selfishness, the importance of family unity, and the value of hard work.",
     "detailsLink": null
   },

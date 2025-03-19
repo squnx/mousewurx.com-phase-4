@@ -53,8 +53,7 @@ const Portfolio = () => {
               <li data-filter=".filter-web">Web</li>
               <li data-filter=".filter-eblast">Eblast</li>
               <li data-filter=".filter-cd">CD-ROM</li>
-              <li data-filter=".filter-books">Book</li>
-              <li data-filter=".filter-video">Video</li>
+              <li data-filter=".filter-micellaneous">Micellaneous</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {portfolioItems.map(item => (
