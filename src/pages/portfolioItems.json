@@ -1,5 +1,16 @@
 [
   {
+    "id": 94,
+    "category": "filter-web",
+    "imgSrc": "/assets/images/portfolio/brad-ahn-law-thumb.jpg",
+    "title": "Brad Ahn Law 2025",
+    "description": "Your Rights, Our Priority.",
+    "previewLink": "/assets/images/portfolio/brad-ahn-law.jpg",
+    "previewCategory": "portfolio-web",
+    "previewTitle": "The Offices of Brad J. Ahn - Developed with React, Vite, JavaScript, TypeScript, JSON, HTML, Sass and Bootstrap 5 in 2024.",
+    "detailsLink": "https://bradahnlaw.com/"
+  },
+  {
     "id": 93,
     "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/soco-wm-youtube-thumb.jpg",
