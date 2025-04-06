@@ -4,9 +4,10 @@ const Header = () => {
   return (
     <header id="header" className="header d-flex align-items-center sticky-top">
       <div className="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
-        <NavLink to="/" activeclassname="active" className="logo d-flex align-items-center"><h1 className="sitename">mousewurx</h1></NavLink>
-        {/* <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> --> */}
+        <NavLink to="/" activeclassname="active" className="logo d-flex align-items-center">
+          {/* <h1 className="sitename">mousewurx</h1> */}
+          <img src="logo-700x200.png" alt="mousewurx media" />
+        </NavLink>
         <nav id="navmenu" className="navmenu">
           <ul>
             <li><NavLink to="/" activeclassname="active">Home</NavLink></li>
