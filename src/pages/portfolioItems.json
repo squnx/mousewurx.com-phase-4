@@ -1,5 +1,16 @@
 [
   {
+    "id": 95,
+    "category": "filter-micellaneous",
+    "imgSrc": "/assets/images/portfolio/brad-ahn-law-youtube-thumb.jpg",
+    "title": "Brad Ahn Law Advertisement 2025",
+    "description": "Building Brand on YouTube Shorts",
+    "previewLink": "/assets/images/portfolio/brad-ahn-law-youtube.jpg",
+    "previewCategory": "portfolio-micellaneous",
+    "previewTitle": "Creation of two engaging YouTube Shorts to support initial marketing and outreach efforts, along with the basic setup of a dedicated YouTube account.",
+    "detailsLink": "https://www.youtube.com/@Brad-Ahn-Law"
+  },
+  {
     "id": 94,
     "category": "filter-web",
     "imgSrc": "/assets/images/portfolio/brad-ahn-law-thumb.jpg",
@@ -14,8 +25,8 @@
     "id": 93,
     "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/soco-wm-youtube-thumb.jpg",
-    "title": "SoCo Wellness MedSpa 2025",
-    "description": "YouTube Short Video",
+    "title": "SoCo WM Advertisement 2025",
+    "description": "Building Brand on YouTube Shorts",
     "previewLink": "/assets/images/portfolio/soco-wm-youtube.jpg",
     "previewCategory": "portfolio-micellaneous",
     "previewTitle": "YouTube Short Video of SoCo Wellness MedSpa - Discover Your Confidence!",
