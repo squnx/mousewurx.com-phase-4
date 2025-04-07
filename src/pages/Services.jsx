@@ -13,7 +13,7 @@ const Services = () => {
             <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
               <div className="service-item  position-relative">
                 <div className="d-flex">
-                  <div><i className="icon bi bi-activity"></i></div>
+                  <div><i className="icon bi bi-view-list"></i></div>
                   <h3 className="d-flex align-items-center">Responsive Web Design</h3>
                 </div>
                 {/* <a href="service-details.html" className="stretched-link"><h3>Responsive Web Design</h3></a> */}
@@ -23,25 +23,26 @@ const Services = () => {
             <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div className="service-item position-relative">
                 <div className="d-flex">
-                  <div><i className="icon bi bi-broadcast"></i></div>
+                  <div><i className="icon bi bi-window-stack"></i></div>
                   <h3 className="d-flex align-items-center">Single Page Applications</h3>
                 </div>
-                <p>Single Page Applications (SPAs) are web applications that load a single HTML page and update its content dynamically using JavaScript. This creates a seamless user experience that feels more like a native app than a traditional website.</p>
+                <p>Single Page Applications (SPAs) dynamically render content using JavaScript/TypeScript (like React.js) within a single HTML page. This eliminates reloads, enabling fast, app-like user experiences with smooth navigation and real-time updates—ideal for modern web apps.</p>
               </div>
             </div>
             <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
               <div className="service-item position-relative">
                 <div className="d-flex">
-                  <div><i className="icon bi bi-easel"></i></div>
+                  <div><i className="icon bi bi-envelope-paper-heart"></i></div>
                   <h3 className="d-flex align-items-center">Email Campaigns</h3>
                 </div>
-                <p>Email marketing campaigns involve creating, sending, and tracking messages to a targeted audience. This service includes Audience Segmentation, Email Design/Development, Content Creation, Campaign Management, and A/B Testing.</p>
+                {/* <p>Email marketing campaigns involve creating, sending, and tracking messages to a targeted audience. This service includes Audience Segmentation, Email Design/Development, Content Creation, Campaign Management, and A/B Testing.</p> */}
+                <p>Email marketing campaigns deliver targeted messages to engage your audience. Our end-to-end service includes segmentation, custom design, compelling content, automated workflows, and A/B testing—maximizing opens, clicks, and conversions.</p>
               </div>
             </div>
             <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
               <div className="service-item position-relative">
                 <div className="d-flex">
-                  <div><i className="icon bi bi-basket3-fill"></i></div>
+                  <div><i className="icon bi bi-cart3"></i></div>
                   <h3 className="d-flex align-items-center">E-Commerce Development</h3>
                 </div>
                 <p>Our e-commerce development service entails creating, managing, and optimizing online stores tailored to your business needs. This includes custom design, secure payment integration, inventory management, and user-friendly interfaces.</p>
@@ -50,20 +51,29 @@ const Services = () => {
             <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
               <div className="service-item position-relative">
                 <div className="d-flex">
-                  <div><i className="icon bi bi-calendar4-week"></i></div>
+                  <div><i className="icon bi bi-kanban"></i></div>
                   <h3 className="d-flex align-items-center">Content Management Systems</h3>
                 </div>
                 <p>
                   Our Content Management Systems (CMS) service entails developing, deploying, and maintaining platforms that allow you to create, manage, and modify digital content easily. This includes custom CMS solutions, seamless integration, user training, and ongoing support.</p>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            {/* <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
               <div className="service-item position-relative">
                 <div className="d-flex">
                   <div><i className="icon bi bi-chat-square-text"></i></div>
                   <h3 className="d-flex align-items-center">Maintenance and Support</h3>
                 </div>
                 <p>Our Maintenance and Support service entails providing ongoing technical assistance, regular updates, and troubleshooting to ensure your website or application runs smoothly. This includes performance monitoring, security updates, bug fixes, and user support.</p>
+              </div>
+            </div> */}
+            <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+              <div className="service-item position-relative">
+                <div className="d-flex">
+                  <div><i className="icon bi bi-camera-reels"></i></div>
+                  <h3 className="d-flex align-items-center">AI-Powered Video Ad</h3>
+                </div>
+                <p>We craft high-converting short-form video ads using AI tools for platforms like YouTube and Instagram. Our service handles script generation, automated editing, voiceovers, and performance analytics - delivering engaging content with minimal production time.</p>
               </div>
             </div>
           </div>
