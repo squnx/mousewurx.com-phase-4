@@ -88,83 +88,83 @@ const Services = () => {
           </div>
           <div className="row">
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/boeing.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/boeing.png" alt="" className="img-fluid" />
               <h3>Boeing</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/stamps.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/stamps.png" alt="" className="img-fluid" />
               <h3>Stamps.com</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/oracle.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/oracle.png" alt="" className="img-fluid" />
               <h3>ORACLE</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/sunmicrosystems.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/sunmicrosystems.png" alt="" className="img-fluid" />
               <h3>Sun Microsystems</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/stanlee.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/stanlee.png" alt="" className="img-fluid" />
               <h3>Stan Lee Media</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/hollywood.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/hollywood.png" alt="" className="img-fluid" />
               <h3>Hollywood.com</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/nestle.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/nestle.png" alt="" className="img-fluid" />
               <h3>Nestlé</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/netapp.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/netapp.png" alt="" className="img-fluid" />
               <h3>NetApp</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/serena.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/serena.png" alt="" className="img-fluid" />
               <h3>Serena Software</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/cetera.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/cetera.png" alt="" className="img-fluid" />
               <h3>Cetera Finance Group</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/att.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/att.png" alt="" className="img-fluid" />
               <h3>AT&T</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/vmware.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/vmware.png" alt="" className="img-fluid" />
               <h3>VMware</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/roxio.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/roxio.png" alt="" className="img-fluid" />
               <h3>Roxio</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/platronics.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/platronics.png" alt="" className="img-fluid" />
               <h3>Plantronics</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/disney.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/disney.png" alt="" className="img-fluid" />
               <h3>Disney Interactive</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/art-institute.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/art-institute.png" alt="" className="img-fluid" />
               <h3>Art Institute of Los Angeles</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/powerbar.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/powerbar.png" alt="" className="img-fluid" />
               <h3>PowerBar</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/hd-buttercup.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/hd-buttercup.png" alt="" className="img-fluid" />
               <h3>HD Buttercup</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/virtu.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/virtu.png" alt="" className="img-fluid" />
               <h3>Virtu</h3>
             </div>
             <div className="col-lg-3 col-md-4 col-sm-6 text-center">
-              <img src="/assets/images/client/db.png" alt="" className="img-fluid" />
+              <img src="/assets/images/services/client/db.png" alt="" className="img-fluid" />
               <h3>Dun & Bradstreet</h3>
             </div>
           </div>
