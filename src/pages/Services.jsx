@@ -29,14 +29,13 @@ const Services = () => {
                 <p>Single Page Applications (SPAs) dynamically render content using JavaScript/TypeScript (like React.js) within a single HTML page. This eliminates reloads, enabling fast, app-like user experiences with smooth navigation and real-time updates—ideal for modern web apps.</p>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
               <div className="service-item position-relative">
                 <div className="d-flex">
-                  <div><i className="icon bi bi-envelope-paper-heart"></i></div>
-                  <h3 className="d-flex align-items-center">Email Campaigns</h3>
+                  <div><i className="icon bi bi-camera-reels"></i></div>
+                  <h3 className="d-flex align-items-center">AI-Powered Video Ad</h3>
                 </div>
-                {/* <p>Email marketing campaigns involve creating, sending, and tracking messages to a targeted audience. This service includes Audience Segmentation, Email Design/Development, Content Creation, Campaign Management, and A/B Testing.</p> */}
-                <p>Email marketing campaigns deliver targeted messages to engage your audience. Our end-to-end service includes segmentation, custom design, compelling content, automated workflows, and A/B testing—maximizing opens, clicks, and conversions.</p>
+                <p>We craft high-converting short-form video ads using AI tools for platforms like YouTube and Instagram. Our service handles script generation, automated editing, voiceovers, and performance analytics - delivering engaging content with minimal production time.</p>
               </div>
             </div>
             <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
@@ -58,6 +57,16 @@ const Services = () => {
                   Our Content Management Systems (CMS) service entails developing, deploying, and maintaining platforms that allow you to create, manage, and modify digital content easily. This includes custom CMS solutions, seamless integration, user training, and ongoing support.</p>
               </div>
             </div>
+            <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+              <div className="service-item position-relative">
+                <div className="d-flex">
+                  <div><i className="icon bi bi-envelope-paper-heart"></i></div>
+                  <h3 className="d-flex align-items-center">Email Campaigns</h3>
+                </div>
+                {/* <p>Email marketing campaigns involve creating, sending, and tracking messages to a targeted audience. This service includes Audience Segmentation, Email Design/Development, Content Creation, Campaign Management, and A/B Testing.</p> */}
+                <p>Email marketing campaigns deliver targeted messages to engage your audience. Our end-to-end service includes segmentation, custom design, compelling content, automated workflows, and A/B testing—maximizing opens, clicks, and conversions.</p>
+              </div>
+            </div>
             {/* <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
               <div className="service-item position-relative">
                 <div className="d-flex">
@@ -67,15 +76,6 @@ const Services = () => {
                 <p>Our Maintenance and Support service entails providing ongoing technical assistance, regular updates, and troubleshooting to ensure your website or application runs smoothly. This includes performance monitoring, security updates, bug fixes, and user support.</p>
               </div>
             </div> */}
-            <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-              <div className="service-item position-relative">
-                <div className="d-flex">
-                  <div><i className="icon bi bi-camera-reels"></i></div>
-                  <h3 className="d-flex align-items-center">AI-Powered Video Ad</h3>
-                </div>
-                <p>We craft high-converting short-form video ads using AI tools for platforms like YouTube and Instagram. Our service handles script generation, automated editing, voiceovers, and performance analytics - delivering engaging content with minimal production time.</p>
-              </div>
-            </div>
           </div>
         </div>
       </section>
