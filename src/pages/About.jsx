@@ -16,7 +16,7 @@ const About = () => {
             <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
               <div className="about-col">
                 <div className="img">
-                  <img src="/assets/images/about-mission.jpg" alt="" className="img-fluid" />
+                  <img src="/assets/images/about/about-mission.jpg" alt="" className="img-fluid" />
                 </div>
                 <h2 className="title">Mission</h2>
                 <p>We empower businesses with innovative web solutions and exceptional content production, transforming ideas into reality with collaboration and cutting-edge technology to deliver measurable results and drive success.</p>
@@ -25,7 +25,7 @@ const About = () => {
             <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div className="about-col">
                 <div className="img">
-                  <img src="/assets/images/about-experience.jpg" alt="" className="img-fluid" />
+                  <img src="/assets/images/about/about-experience.jpg" alt="" className="img-fluid" />
                 </div>
                 <h2 className="title">Experience</h2>
                 <p>At mousewurx, we offer personalized service by experienced professionals. With expertise in web and content production, we ensure exceptional design, reliable hosting, and robust technical compatibility, delivering outstanding results.
@@ -35,7 +35,7 @@ const About = () => {
             <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
               <div className="about-col">
                 <div className="img">
-                  <img src="/assets/images/about-vision.jpg" alt="" className="img-fluid" />
+                  <img src="/assets/images/about/about-vision.jpg" alt="" className="img-fluid" />
                 </div>
                 <h2 className="title">Vision</h2>
                 <p>
@@ -45,7 +45,7 @@ const About = () => {
             <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400">
               <div className="about-col">
                 <div className="img">
-                  <img src="/assets/images/about-plan.jpg" alt="" className="img-fluid" />
+                  <img src="/assets/images/about/about-plan.jpg" alt="" className="img-fluid" />
                 </div>
                 <h2 className="title">Plan</h2>
                 <p>We continuously adapt to industry trends and technologies, crafting tailored strategies to drive growth. Through ongoing optimization and proactive support, we ensure your success in a dynamic digital landscape.</p>
@@ -132,7 +132,7 @@ const About = () => {
 
       {/* Testimonials Section */}
       <section id="testimonials" className="testimonials section">
-        <img src="/assets/images/testimonials-bg.jpg" className="testimonials-bg" alt="" />
+        <img src="/assets/images/testimonials/testimonials-bg.png" className="testimonials-bg" alt="" />
         <div className="container section-title" data-aos="fade-up">
           <h2 className="mb-0">Testimonials</h2>
         </div>
