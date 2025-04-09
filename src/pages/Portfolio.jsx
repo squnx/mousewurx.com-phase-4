@@ -63,6 +63,7 @@ const Portfolio = () => {
                     <div className="portfolio-info">
                       <h4>{item.title}</h4>
                       <p>{item.description}</p>
+                      {/* Building Brand on YouTube Shorts */}
                       <div className="portfolio-links">
                         <a href={item.previewLink} data-gallery={item.previewCategory} className="glightbox preview-link" title={item.previewTitle}><i className="bi bi-zoom-in"></i></a>
                         {item.detailsLink && (
