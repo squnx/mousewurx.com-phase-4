@@ -23,7 +23,7 @@ const Home = () => {
         <div className="container d-flex flex-column align-items-center justify-content-center text-center" data-aos="fade-up" data-aos-delay="100">
           <h2>Ivan Song <span className="d-sm-none"><br /></span><span>- from California</span></h2>
           {/* <p><span className="typed" data-typed-items="Front End Engineer, AI-Powered Video Ad Creator, Full-Stack Shopify Developer, AI-Generated Book Author, AI-Generated Illustrator"></span></p> */}
-          <p><span className="typed" data-typed-items="Front End Engineer, UI/UX Developer, AI-Powered Video Ad Creator, Full-Stack Shopify Developer, AI-Generated Book Author, AI-Generated Illustrator"></span></p>
+          <p><span className="typed" data-typed-items="Front End Engineer, UI/UX Developer, AI-Powered Video campaign Creator, Full-Stack Shopify Developer, AI-Generated Book Author, AI-Generated Illustrator"></span></p>
         </div>
       </section>
     </>
