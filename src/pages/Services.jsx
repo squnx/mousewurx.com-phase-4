@@ -33,9 +33,9 @@ const Services = () => {
               <div className="service-item position-relative">
                 <div className="d-flex">
                   <div><i className="icon bi bi-camera-reels"></i></div>
-                  <h3 className="d-flex align-items-center">AI-Powered Video Ad</h3>
+                  <h3 className="d-flex align-items-center">AI-Powered Video Campaign</h3>
                 </div>
-                <p>We craft high-converting short-form video ads using AI tools for platforms like YouTube and Instagram. Our service handles script generation, automated editing, voiceovers, and performance analytics - delivering engaging content with minimal production time.</p>
+                <p>We craft high-converting short-form video campaigns using AI tools for platforms like YouTube and Instagram. Our service handles script generation, automated editing, voiceovers, and performance analytics - delivering engaging content with minimal production time.</p>
               </div>
             </div>
             <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
