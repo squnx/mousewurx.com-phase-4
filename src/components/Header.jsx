@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
         <NavLink to="/" activeclassname="active" className="logo d-flex align-items-center">
           {/* <h1 className="sitename">mousewurx</h1> */}
-          <img src="logo-700x200.png" alt="mousewurx media" />
+          <img src="logo.png" alt="mousewurx media" />
           {/* Code. Create. Captivate. */}
         </NavLink>
         <nav id="navmenu" className="navmenu">

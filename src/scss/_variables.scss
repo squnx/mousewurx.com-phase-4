@@ -16,9 +16,9 @@
   /* Default color used for the majority of the text content across the entire website */
   --heading-color: #0a090f;
   /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #ff8e60;
+  --accent-color: #33bb88;
   /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
-  --scroll-color: #ff8e60;
+  --scroll-color: #33bb88;
   /* Scroll coloris used for the scroll top icon */
   --contrast-color: #ffffff;
   /* The contrast color is used for elements when the background color is one of the heading, accent, or default colors. Its purpose is to ensure proper contrast and readability when placed over these more dominant colors */
@@ -28,15 +28,15 @@
 :root {
   --nav-color: #ffffff;
   /* The default color of the main navmenu links */
-  --nav-active-color: #ff8e60;
+  --nav-active-color: #33bb88;
   /* Applied to main navmenu links when they are active */
-  --nav-hover-color: #ffb87d;
+  --nav-hover-color: #bfe5d4;
   /* Applied to main navmenu links when they are hovered over or active */
   --nav-dropdown-background-color: #ffffff;
   /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
   --nav-dropdown-color: #212529;
   /* Used for navigation links of the dropdown items in the navigation menu. */
-  --nav-dropdown-hover-color: #ff8e60;
+  --nav-dropdown-hover-color: #33bb88;
   // --nav-dropdown-hover-color: #0078ff;
   /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 }
