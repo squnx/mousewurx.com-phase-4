@@ -24,6 +24,9 @@ const Home = () => {
           <h2>Ivan Song <span className="d-sm-none"><br /></span><span>- from California</span></h2>
           {/* <p><span className="typed" data-typed-items="Front End Engineer, AI-Powered Video Ad Creator, Full-Stack Shopify Developer, AI-Generated Book Author, AI-Generated Illustrator"></span></p> */}
           <p><span className="typed" data-typed-items="Front End Engineer, UI/UX Developer, AI-Powered Video Campaign Creator, Full-Stack Shopify Developer, AI-Generated Book Author, AI-Generated Illustrator"></span></p>
+          <div className="d-flex mt-5" data-aos="fade-up" data-aos-delay="200">
+            <a href="https://youtube.com/shorts/lBF8uYVapx8" className="btn-watch-video d-flex align-items-center" target="_blank"><i className="bi bi-play-circle"></i><span>Watch Video</span></a>
+          </div>
         </div>
       </section>
     </>
