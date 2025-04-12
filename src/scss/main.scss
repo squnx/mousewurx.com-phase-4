@@ -413,7 +413,7 @@ h6 {
   --background-color: #222222;
   --default-color: #ffffff;
   color: var(--default-color);
-  background: url(/assets/images/bg-welcome-600x80.png) no-repeat center bottom;
+  background: url(/assets/images/bg-footer-600x80.png) no-repeat center bottom;
   background-color: var(--background-color);
   font-size: 14px;
   padding-top: 20px;
@@ -484,7 +484,7 @@ h6 {
   }
 
   @media (max-width: 768px) {
-    background: url(/assets/images/bg-welcome-400x80.png) no-repeat center bottom;
+    background: url(/assets/images/bg-footer-400x80.png) no-repeat center bottom;
     background-color: var(--background-color);
     --background-color: #222222;  
   }
