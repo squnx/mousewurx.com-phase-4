@@ -1,5 +1,16 @@
 [
   {
+    "id": 97,
+    "category": "filter-micellaneous",
+    "imgSrc": "/assets/images/portfolio/squnx.media-youtube.01-thumb.jpg",
+    "title": "The Forgetful Duo 2025",
+    "description": "Wait, Where Are We Going Again?",
+    "previewLink": "/assets/images/portfolio/squnx.media-youtube.01.jpg",
+    "previewCategory": "portfolio-micellaneous",
+    "previewTitle": "Get ready for a hilarious ride with The Forgetful Duo! Rebecca and Charlie set off for Union Station, but a minor detail slips their minds... the destination itself!",
+    "detailsLink": "https://www.youtube.com/watch?v=gqtH0Qax3sg"
+  },
+  {
     "id": 96,
     "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/brad-ahn-law-youtube.01-thumb.jpg",
