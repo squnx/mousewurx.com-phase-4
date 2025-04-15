@@ -12,6 +12,17 @@
   },
   {
     "id": 96,
+    "category": "filter-web",
+    "imgSrc": "/assets/images/portfolio/brad-ahn-law-thumb.jpg",
+    "title": "Brad Ahn Law 2025",
+    "description": "Your Rights, Our Priority.",
+    "previewLink": "/assets/images/portfolio/brad-ahn-law.jpg",
+    "previewCategory": "portfolio-web",
+    "previewTitle": "The Offices of Brad J. Ahn - Developed with React, Vite, JavaScript, TypeScript, JSON, HTML, Sass and Bootstrap 5 in 2024.",
+    "detailsLink": "https://bradahnlaw.com/"
+  },
+  {
+    "id": 95,
     "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/brad-ahn-law-youtube.01-thumb.jpg",
     "title": "Brad Ahn Law Ad Campaign 2025",
@@ -22,7 +33,7 @@
     "detailsLink": "https://youtube.com/shorts/LcnsIKBlqk8"
   },
   {
-    "id": 95,
+    "id": 94,
     "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/brad-ahn-law-youtube.02-thumb.jpg",
     "title": "Brad Ahn Law Ad Campaign 2025",
@@ -31,17 +42,6 @@
     "previewCategory": "portfolio-micellaneous",
     "previewTitle": "Creation of two engaging YouTube Shorts to support initial marketing and outreach efforts, along with the basic setup of a dedicated YouTube account.",
     "detailsLink": "https://youtube.com/shorts/gjVZ1RjKQ2U"
-  },
-  {
-    "id": 94,
-    "category": "filter-web",
-    "imgSrc": "/assets/images/portfolio/brad-ahn-law-thumb.jpg",
-    "title": "Brad Ahn Law 2025",
-    "description": "Your Rights, Our Priority.",
-    "previewLink": "/assets/images/portfolio/brad-ahn-law.jpg",
-    "previewCategory": "portfolio-web",
-    "previewTitle": "The Offices of Brad J. Ahn - Developed with React, Vite, JavaScript, TypeScript, JSON, HTML, Sass and Bootstrap 5 in 2024.",
-    "detailsLink": "https://bradahnlaw.com/"
   },
   {
     "id": 93,
