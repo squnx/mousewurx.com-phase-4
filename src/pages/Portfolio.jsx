@@ -53,7 +53,7 @@ const Portfolio = () => {
               <li data-filter=".filter-web">Web</li>
               <li data-filter=".filter-eblast">Eblast</li>
               <li data-filter=".filter-cd">CD-ROM</li>
-              <li data-filter=".filter-micellaneous">Micellaneous</li>
+              <li data-filter=".filter-ai">AI-Crafted</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {portfolioItems.map(item => (
@@ -76,12 +76,12 @@ const Portfolio = () => {
               ))}
               {/* {
                 "id": 92,
-                "category": "filter-micellaneous",
+                "category": "filter-ai",
                 "imgSrc": "/assets/images/portfolio/dream-shorts-thumb.jpg",
                 "title": "Dreaming of CEO? 2025",
                 "description": "From Amazon employee to successful entrepreneur!",
                 "previewLink": "/assets/images/portfolio/dream-shorts.jpg",
-                "previewCategory": "portfolio-micellaneous",
+                "previewCategory": "portfolio-ai",
                 "previewTitle": "Dreaming of starting your own business? Watch how a 25-year-old went from Account Executive to CEO. This inspiring journey will motivate you to take the leap.",
                 "detailsLink": "https://songfamily.netlify.app/assets/images/events/andy/videos/2025.03-andy.journey.mp4"
                 }, */}
