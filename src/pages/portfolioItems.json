@@ -1,6 +1,6 @@
 [
   {
-    "id": 97,
+    "id": 96,
     "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/squnx.media-youtube.01-thumb.jpg",
     "title": "The Forgetful Duo 2025",
@@ -8,10 +8,10 @@
     "previewLink": "/assets/images/portfolio/squnx.media-youtube.01.jpg",
     "previewCategory": "portfolio-micellaneous",
     "previewTitle": "Get ready for a hilarious ride with The Forgetful Duo! Rebecca and Charlie set off for Union Station, but a minor detail slips their minds... the destination itself!",
-    "detailsLink": "https://www.youtube.com/watch?v=zeCMCuz4bXM"
+    "detailsLink": "https://www.youtube.com/@truthfully-untrue/shorts"
   },
   {
-    "id": 96,
+    "id": 95,
     "category": "filter-web",
     "imgSrc": "/assets/images/portfolio/brad-ahn-law-thumb.jpg",
     "title": "Brad Ahn Law 2025",
@@ -22,7 +22,7 @@
     "detailsLink": "https://bradahnlaw.com/"
   },
   {
-    "id": 95,
+    "id": 94,
     "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/brad-ahn-law-youtube.01-thumb.jpg",
     "title": "Brad Ahn Law Ad Campaign 2025",
@@ -33,7 +33,7 @@
     "detailsLink": "https://youtube.com/shorts/LcnsIKBlqk8"
   },
   {
-    "id": 94,
+    "id": 93,
     "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/brad-ahn-law-youtube.02-thumb.jpg",
     "title": "Brad Ahn Law Ad Campaign 2025",
@@ -44,7 +44,7 @@
     "detailsLink": "https://youtube.com/shorts/gjVZ1RjKQ2U"
   },
   {
-    "id": 93,
+    "id": 92,
     "category": "filter-micellaneous",
     "imgSrc": "/assets/images/portfolio/soco-wm-youtube-thumb.jpg",
     "title": "SoCo WM Ad Campaign 2025",
@@ -53,17 +53,6 @@
     "previewCategory": "portfolio-micellaneous",
     "previewTitle": "Creation of engaging YouTube Shorts to support initial marketing and outreach efforts, along with the basic setup of a dedicated YouTube account.",
     "detailsLink": "https://youtube.com/shorts/Spn2JMx-TwA"
-  },
-  {
-    "id": 92,
-    "category": "filter-micellaneous",
-    "imgSrc": "/assets/images/portfolio/dream-shorts-thumb.jpg",
-    "title": "Dreaming of CEO? 2025",
-    "description": "From Amazon employee to successful entrepreneur!",
-    "previewLink": "/assets/images/portfolio/dream-shorts.jpg",
-    "previewCategory": "portfolio-micellaneous",
-    "previewTitle": "Dreaming of starting your own business? Watch how a 25-year-old went from Account Executive to CEO. This inspiring journey will motivate you to take the leap.",
-    "detailsLink": "https://songfamily.netlify.app/assets/images/events/andy/videos/2025.03-andy.journey.mp4"
   },
   {
     "id": 91,

@@ -24,12 +24,12 @@ const Portfolio = () => {
         }, 100); // Adjust the delay if needed
       }
     };
-  
+
     const filterContainer = document.querySelector('.isotope-filters');
     if (filterContainer) {
       filterContainer.addEventListener('click', handleFilterClick);
     }
-  
+
     return () => {
       if (filterContainer) {
         filterContainer.removeEventListener('click', handleFilterClick);
@@ -74,6 +74,17 @@ const Portfolio = () => {
                   </div>
                 </div>
               ))}
+              {/* {
+                "id": 92,
+                "category": "filter-micellaneous",
+                "imgSrc": "/assets/images/portfolio/dream-shorts-thumb.jpg",
+                "title": "Dreaming of CEO? 2025",
+                "description": "From Amazon employee to successful entrepreneur!",
+                "previewLink": "/assets/images/portfolio/dream-shorts.jpg",
+                "previewCategory": "portfolio-micellaneous",
+                "previewTitle": "Dreaming of starting your own business? Watch how a 25-year-old went from Account Executive to CEO. This inspiring journey will motivate you to take the leap.",
+                "detailsLink": "https://songfamily.netlify.app/assets/images/events/andy/videos/2025.03-andy.journey.mp4"
+                }, */}
             </div>
           </div>
         </div>
