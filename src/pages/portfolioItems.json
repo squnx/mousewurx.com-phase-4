@@ -2,6 +2,17 @@
   {
     "id": 96,
     "category": "filter-ai",
+    "imgSrc": "/assets/images/portfolio/squnx.media-youtube.studio-thumb.jpg",
+    "title": "squnx media 2025",
+    "description": "The Foundation of Our Outreach!",
+    "previewLink": "/assets/images/portfolio/squnx.media-youtube.studio.jpg",
+    "previewCategory": "portfolio-ai",
+    "previewTitle": "Get a quick glimpse into squnx media (@squnx-media)! This channel features our initial YouTube Shorts for marketing and outreach. Follow us to stay updated and be part of our early growth!",
+    "detailsLink": "https://www.youtube.com/@squnx-media"
+  },
+  {
+    "id": 95,
+    "category": "filter-ai",
     "imgSrc": "/assets/images/portfolio/squnx.media-youtube.01-thumb.jpg",
     "title": "Truthfully Untrue 2025",
     "description": "Laughing at the (un)truth",
@@ -11,7 +22,7 @@
     "detailsLink": "https://www.youtube.com/@truthfully-untrue/shorts"
   },
   {
-    "id": 95,
+    "id": 94,
     "category": "filter-web",
     "imgSrc": "/assets/images/portfolio/brad-ahn-law-thumb.jpg",
     "title": "Brad Ahn Law 2025",
@@ -22,7 +33,7 @@
     "detailsLink": "https://bradahnlaw.com/"
   },
   {
-    "id": 94,
+    "id": 93,
     "category": "filter-ai",
     "imgSrc": "/assets/images/portfolio/brad-ahn-law-youtube.01-thumb.jpg",
     "title": "Brad Ahn Law Ad Campaign 2025",
@@ -30,18 +41,7 @@
     "previewLink": "/assets/images/portfolio/brad-ahn-law-youtube.01.jpg",
     "previewCategory": "portfolio-ai",
     "previewTitle": "Creation of two engaging YouTube Shorts to support initial marketing and outreach efforts, along with the basic setup of a dedicated YouTube account.",
-    "detailsLink": "https://youtube.com/shorts/LcnsIKBlqk8"
-  },
-  {
-    "id": 93,
-    "category": "filter-ai",
-    "imgSrc": "/assets/images/portfolio/brad-ahn-law-youtube.02-thumb.jpg",
-    "title": "Brad Ahn Law Ad Campaign 2025",
-    "description": "No Fees Unless We Win!",
-    "previewLink": "/assets/images/portfolio/brad-ahn-law-youtube.02.jpg",
-    "previewCategory": "portfolio-ai",
-    "previewTitle": "Creation of two engaging YouTube Shorts to support initial marketing and outreach efforts, along with the basic setup of a dedicated YouTube account.",
-    "detailsLink": "https://youtube.com/shorts/gjVZ1RjKQ2U"
+    "detailsLink": "https://www.youtube.com/@Brad-Ahn-Law/shorts"
   },
   {
     "id": 92,

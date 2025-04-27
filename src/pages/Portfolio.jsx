@@ -74,7 +74,19 @@ const Portfolio = () => {
                   </div>
                 </div>
               ))}
-              {/* {
+              {/* 
+              {
+                "id": 93,
+                "category": "filter-ai",
+                "imgSrc": "/assets/images/portfolio/brad-ahn-law-youtube.02-thumb.jpg",
+                "title": "Brad Ahn Law Ad Campaign 2025",
+                "description": "No Fees Unless We Win!",
+                "previewLink": "/assets/images/portfolio/brad-ahn-law-youtube.02.jpg",
+                "previewCategory": "portfolio-ai",
+                "previewTitle": "Creation of two engaging YouTube Shorts to support initial marketing and outreach efforts, along with the basic setup of a dedicated YouTube account.",
+                "detailsLink": "https://youtube.com/shorts/gjVZ1RjKQ2U"
+              },
+              {
                 "id": 92,
                 "category": "filter-ai",
                 "imgSrc": "/assets/images/portfolio/dream-shorts-thumb.jpg",
@@ -84,7 +96,7 @@ const Portfolio = () => {
                 "previewCategory": "portfolio-ai",
                 "previewTitle": "Dreaming of starting your own business? Watch how a 25-year-old went from Account Executive to CEO. This inspiring journey will motivate you to take the leap.",
                 "detailsLink": "https://songfamily.netlify.app/assets/images/events/andy/videos/2025.03-andy.journey.mp4"
-                }, */}
+              }, */}
             </div>
           </div>
         </div>
