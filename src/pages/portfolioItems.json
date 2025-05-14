@@ -1,5 +1,16 @@
 [
   {
+    "id": 97,
+    "category": "filter-ai",
+    "imgSrc": "/assets/images/portfolio/squnx.media-youtube.studio.02-thumb.jpg",
+    "title": "Animated Bible Bites 2025",
+    "description": "Daily dose of animated biblical insights!",
+    "previewLink": "/assets/images/portfolio/squnx.media-youtube.studio.02.jpg",
+    "previewCategory": "portfolio-ai",
+    "previewTitle": "Animate Bible Bites bring you short, engaging animated videos that make learning key Bible stories and verses fun and easy to understand.",
+    "detailsLink": "https://www.youtube.com/@animated-bible-bites"
+  },
+  {
     "id": 96,
     "category": "filter-ai",
     "imgSrc": "/assets/images/portfolio/squnx.media-youtube.studio-thumb.jpg",
